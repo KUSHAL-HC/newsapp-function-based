@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Sri Lanka vs Ireland LIVE: ICC T20 World Cup 2026 - cricket score, radio commentary & video highlights",
+        "description": "Hosts Sri Lanka face Ireland in the ICC T20 World Cup in Colombo - follow live scores, radio commentary and video highlights.",
+        "url": "http://www.bbc.co.uk/sport/cricket/live/cdxjlzy2rvnt",
+        "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+        "publishedAt": "2026-02-08T13:37:19.8982125Z",
+        "content": "Whether it be the unforgettable St. Patrick's Day against Pakistan in 2007, or Kevin O'Brien thumping a rapid century to beat England four years later, Ireland's history at World Cups is one built up… [+908 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
