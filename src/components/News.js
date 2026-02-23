@@ -51,9 +51,9 @@ const PreviousButt = async ()=>{
 }
 
 const fetchMoreData = async () => {
+  
+  const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=240154ce9a20412a995fa6f72768fbf7&page=${page+1}&pageSize=${pageSize}`;
   setPage(page+1);
-  const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=240154ce9a20412a995fa6f72768fbf7&page=${page}&pageSize=${pageSize}`;
-
   let data = await fetch(url);
   let parseData = await data.json();
   setArticles(articles.concat(parseData.articles));
@@ -64,7 +64,7 @@ const fetchMoreData = async () => {
 
     return (
       <>
-        <h1 className='text-center' style={{margin:'35px 0px'}}>NewsMonkey - Top{capitalizeFirstLetter(category)} HeadLines</h1>
+        <h1 className='text-center' style={{margin:'60px 0px'}}>NewsMonkey - Top{capitalizeFirstLetter(category)} HeadLines</h1>
         {loading && <Spinner/>}
 
 
